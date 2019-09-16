@@ -34,7 +34,7 @@ public class Letters {
 		System.out.println("You deserve everything coming your way! You're one of the ");
 		System.out.println("nicest guys I knew growing up, and I hope that you still ");
 		System.out.println("remember me when I show up at your house tomorrow. Please don't");
-		System.out.println("do anything to me. Please.");
+		System.out.println("do anything to me.");
 		common2();
 		common1();
 	}
@@ -43,7 +43,7 @@ public class Letters {
 		System.out.println("");
 	}
 	public static void common2() {
-		System.out.println(		"Personally, i've been having a lot of fun with my classes,");
+		System.out.println("	Personally, i've been having a lot of fun with my classes,");
 		System.out.println("CS, especially. I've been able to express my creativity ");
 		System.out.println("with this class and I'm ready to learn a lot more.");
 		System.out.println("Figuring out how to hack into the government and be put ");
